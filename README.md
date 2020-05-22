@@ -33,7 +33,7 @@ Then [AMASING Startup](https://www.amase.io/amase-startup/index.html) is for you
 | Material               |Details                          |
 |----------------|-------------------------------|
 |Introduction to AMASE for Startups |Coming soon |
-|[The Starter State of Mind]([https://www.amase.io/amase-startup/0_Method/AMASE%20-%20The%20Starter%20State%20of%20Mind.pdf](https://www.amase.io/amase-startup/0_Method/AMASE%20-%20The%20Starter%20State%20of%20Mind.pdf))| Preparation guidelines to become an entrepreneur! |
+|[The Starter State of Mind](https://www.amase.io/amase-startup/0_Method/AMASE%20-%20The%20Starter%20State%20of%20Mind.pdf)| Preparation guidelines to become an entrepreneur! |
 
 
 
@@ -41,7 +41,7 @@ Then [AMASING Startup](https://www.amase.io/amase-startup/index.html) is for you
 #### 1. Idea 
 | Material               |Details                          |
 |----------------|-------------------------------|
-|[01 - Idea as Unique Selling Proposition]([https://www.amase.io/amase-startup/1_Idea/01%20-%20Idea%20as%20Unique%20Selling%20Proposition.pdf](https://www.amase.io/amase-startup/1_Idea/01%20-%20Idea%20as%20Unique%20Selling%20Proposition.pdf)) | Prepare yourself to become an entrepreneur! |
+|[01 - Idea as Unique Selling Proposition](https://www.amase.io/amase-startup/1_Idea/01%20-%20Idea%20as%20Unique%20Selling%20Proposition.pdf) | Prepare yourself to become an entrepreneur! |
 |02 - Product and Service Design|Coming soon |
 |03 - Select Business Model|Coming soon|
 |04 - Dry Run the Concept|Coming soon|
