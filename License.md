@@ -1,4 +1,4 @@
-Copyright (c) 2020, Amase.io All rights reserved.
+Copyright (c), AMASE, Amase.io All rights reserved.
 
 Term of Usages
 - You may use and redistribute the shared materials of AMASE methodology
