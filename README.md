@@ -25,11 +25,17 @@ If you are asking yourself one of these questions:
 
 Then [AMASING Startup](https://www.amase.io/amase-startup/index.html) is for you.
 
+
+
+
+
 #### 0. Introduction to the Startup Construction Method 
 | Material               |Details                          |
 |----------------|-------------------------------|
 |Introduction to AMASE for Startups |Coming soon |
 |[The Starter State of Mind]([https://www.amase.io/amase-startup/0_Method/AMASE%20-%20The%20Starter%20State%20of%20Mind.pdf](https://www.amase.io/amase-startup/0_Method/AMASE%20-%20The%20Starter%20State%20of%20Mind.pdf))| Preparation guidelines to become an entrepreneur! |
+
+
 
 
 #### 1. Idea 
@@ -41,7 +47,7 @@ Then [AMASING Startup](https://www.amase.io/amase-startup/index.html) is for you
 |04 - Dry Run the Concept|Coming soon|
 |05 - Prepare, Train, Plan and Organize|Coming soon|
 
-
+<br/>
 
 # AMASING Business
 Create great business starts with the creation of greater products and services.
@@ -51,6 +57,7 @@ Create great business starts with the creation of greater products and services.
 |----------------|-------------------------------|
 |[AMASE Product and Service Construction Journey](https://www.amase.io/amase-business/AMASE-Product_and_Service_Construction_Journey_V01.pdf) | A complete step by step approach to building your products and services in the most efficient, optimized, and predictable way. |
 
+<br/>
 
 # AMASING Techs
 Coming soon.
