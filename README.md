@@ -5,7 +5,7 @@ AMASE methodology is composed of:
 - 🚀 AMASING Startup: a complete **Startup construction method**
 - 🏬 AMASING Business: a complete construction method of **Products, Services and Businesses** 
 - ⚡ AMASING Technology : a list of the **best software and technologies** to launch and grow steadily your business like a rocket 
-- 🌐 AMASING Expert: a network of invaluable experts that can help your to build what you need with precision and trust, and connect you with customers.      
+- 🌐 AMASING Expert: a network of invaluable experts that can help you to build what you need with precision and trust, and connect you with customers.      
 
 See: https://amase.io
 
