@@ -9,6 +9,7 @@ AMASE methodology is composed of:
 
 See: https://amase.io
 
+<br/>
 
 # AMASING Startup
 If you are asking yourself one of these questions: 
